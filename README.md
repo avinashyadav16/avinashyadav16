@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Avinash Yadav and My User Id is avinashyadav2003
+- 👀 I’m interested in in Coding, Software development and Mobile App Development.
+- 🌱 I’m currently learning at SRM-AP University and doing B.Tech. CSE with AI & ML.
+- 💞️ I’m looking to collaborate on any coding platform where i can learn and improve myself in coding.
+- 📫 How to reach me E-Mail -: avinash_yadav@srmap.edu.in
