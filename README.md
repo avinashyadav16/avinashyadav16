@@ -25,22 +25,6 @@ const avinashyadav16 = {
 };
 ```
 
-```javascript
-const avinashyadav16 = {
-    pronouns: "He" || "Him",
-    reachMe: '<a href="mailto:avinashurmilayadav@gmail.com">avinashurmilayadav@gmail.com</a>',
-    getConnected: '<a href="https://www.linkedin.com/in/avinash-yadav-16hgnisgar/">LinkedIn Profile</a>',
-    askMeAbout: ["Tech", "Codes", "Travel"],
-    code: ["Python", "C", "CPP", "HTML", "CSS", "JS"],
-    currentFocus: "No Focus point at this time, but thinking of code...",
-    funFact: "There are 10 types of people in the world… those who understand binary and those who don’t."
-};
-
-```
-
-
-
-
 <br> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> </em>
