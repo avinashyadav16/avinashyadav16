@@ -32,15 +32,18 @@ const avinashyadav16 = {
     funFact: "There are 10 types of people in the world…
                 those who understand binary and those who don’t."
 };
-
 ```
+<br><br>
+
+<h1 style="color: green"><b><u> Hacktoberfest 2023 Badge Board </u></b></h1>
+
+[![An image of @avinashyadav16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashyadav16)](https://holopin.io/@avinashyadav16)
 
 <br> 
+
+--------------------------------------
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> </em>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-<br> 
-
 
 -------------------------
