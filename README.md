@@ -39,7 +39,7 @@ const avinashyadav16 = {
     ],
     askMeAbout: ["Tech", "Codes", "Travel"],
     hobbies: ["Coding", "Suduko-Solving", "Travelling", "Reading"],
-    currentFocus: "Fighting Battles Of Language War...",
+    currentFocus: "Fighting The Battles Of Languages...",
     funFact: "There are 10 types of people in the world…
                 those who understand binary and those who don’t."
 };
@@ -80,7 +80,7 @@ const avinashyadav16 = {
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16&" alt="avinashyadav16" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16&" alt="avinashyadav16" /></p> -->
 <br>
 
 
@@ -92,7 +92,7 @@ const avinashyadav16 = {
 
 
 
-<h1 style="color: green"><img align="right", src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" width="200">📌<b><u>Hacktoberfest 2023 Badge Board </u></b>👇</h1>
+<h1 style="color: green"><img align="right", src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" width="200"><a href="https://www.holopin.io/@avinashyadav16#badges">📌<b><u>Hacktoberfest 2023 Badge Board </u></b>👇</a></h1>
 
 [![An image of @avinashyadav16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashyadav16)](https://holopin.io/@avinashyadav16)
 
