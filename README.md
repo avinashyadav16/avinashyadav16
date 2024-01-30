@@ -99,6 +99,10 @@ const avinashyadav16 = {
 
 
 
+<h1 style="color: green"><img align="right", src="https://www.defy24.xyz/_next/static/media/defy-logo.3f892679.svg" height="50" width="200"><a href="https://www.defy24.xyz/">📌<b><u>Defy 2024 Badge Board </u></b>👇</a></h1>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3" width="600" />
+</p>
 
 
 
