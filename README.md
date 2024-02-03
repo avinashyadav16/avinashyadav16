@@ -62,22 +62,18 @@ const avinashyadav16 = {
 
 [![An image of @avinashyadav16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashyadav16)](https://holopin.io/@avinashyadav16)
 
-  <style>
-    .container {
-      display: flex;
-      justify-content: space-between;
-    }
-    .container img {
-        height:"50px";
-        width:"50px";
-        margin: 10;
-    }
-  </style>
   <h1 style="color: green"><img align="right" src="https://www.defy24.xyz/_next/static/media/defy-logo.3f892679.svg" height="50" width="200"><a href="https://www.defy24.xyz/">📌<b><u>Defy 2024 Badge Board </u></b>👇</a></h1>
-  <div class="container">
-    <img src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3&raw=true" />
-    <img src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3" />
-  </div>
+
+<table>
+  <tr>
+    <td>
+    <img alt="Defy24 Online Badge" src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3&raw=true" width="100%">
+    </td>
+    <td>
+    <img alt="LDefy24 Online Badge" src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3" width="100%">
+    </td>
+  </tr>
+ </table>
 
 ---
 
