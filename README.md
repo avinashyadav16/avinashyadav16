@@ -64,16 +64,13 @@ const avinashyadav16 = {
 
   <h1 style="color: green"><img align="right" src="https://www.defy24.xyz/_next/static/media/defy-logo.3f892679.svg" height="50" width="200"><a href="https://www.defy24.xyz/">📌<b><u>Defy 2024 Badge Board </u></b>👇</a></h1>
 
-<table>
-  <tr>
-    <td>
-    <img alt="Defy24 Online Badge" src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3&raw=true" width="100%">
-    </td>
-    <td>
-    <img alt="LDefy24 Online Badge" src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3" width="100%">
-    </td>
-  </tr>
- </table>
+<p align="center">
+    <img alt="Dark" src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3&raw=true" width="45%">
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img alt="Light" src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3" width="45%">
+</p>
+
+
 
 ---
 
