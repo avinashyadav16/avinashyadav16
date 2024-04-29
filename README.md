@@ -17,7 +17,7 @@ const avinashyadav16 = {
     askMeAbout: ["Tech", "Codes", "Travel"],
     hobbies: ["Coding", "Suduko-Solving", "Travelling", "Reading"],
     currentFocus: "Fighting The Battles Of Languages...",
-    techGoal: "Mastering full-stack development and diving deeper into machine learning.",
+    techGoal: "Mastering full-stack development and diving deeper into ML.",
     funFact: "There are 10 types of people in the world…
                 those who understand binary and those who don’t."
 };
@@ -67,7 +67,7 @@ const avinashyadav16 = {
 
 <br><br><br>
 <br><br><br>
-<br>
+<br><br>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashyadav16&show_icons=true&locale=en" alt="avinashyadav16" /></p> -->
 
