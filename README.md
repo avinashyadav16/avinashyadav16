@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ciao! नमस्कार 🙏🏻, I'm Avinash Yadav !! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>B.Tech. CSE sophomore 🧑‍💻 @ <a href="https://srmap.edu.in/"> SRM-AP University, Andhra Pradesh
+<p><em>B.Tech. CSE sophomore 🧑‍💻 @ <a href="https://srmap.edu.in/"> SRM University AP, Andhra Pradesh
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -71,11 +71,15 @@ const avinashyadav16 = {
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashyadav16&show_icons=true&locale=en" alt="avinashyadav16" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16&" alt="avinashyadav16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16" alt="avinashyadav16" /></p>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16" alt="avinashyadav16" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16&column=5&margin-w=10&margin-h=10" alt="avinashyadav16"/></a> </p>
 <br>
+
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16&theme=algolia" alt="avinashyadav16" /></a> </p>
+<br> -->
 
 <h1 style="color: green"><img align="right", src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" width="200"><a href="https://www.holopin.io/@avinashyadav16#badges">📌<b><u>Hacktoberfest 2023 Badge Board </u></b>👇</a></h1>
 
@@ -91,7 +95,7 @@ const avinashyadav16 = {
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to know about you more!</b> </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to know more about you!</b> </em>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ---
