@@ -1,11 +1,9 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ciao! नमस्कार 🙏🏻, I'm Avinash Yadav !! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>B.Tech. CSE sophomore 🧑‍💻 @ <a href="https://srmap.edu.in/"> SRM University AP, Andhra Pradesh
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashyadav16&label=Profile%20views&color=0e75b6&style=flat" alt="avinashyadav16" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=avinashyadav16&label=Profile%20views&color=0e75b6&style=flat" alt="avinashyadav16" /> </p>
+<a href="https://avinash-yadav16.netlify.app" target="_blank">🔗 Visit My Portfolio</a>
+<br>
 <br>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...
@@ -76,7 +74,6 @@ const avinashyadav16 = {
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16&column=5&margin-w=10&margin-h=10" alt="avinashyadav16"/></a> </p>
 <br>
-
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16&theme=algolia" alt="avinashyadav16" /></a> </p>
 <br> -->
