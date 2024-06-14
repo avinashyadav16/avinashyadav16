@@ -1,8 +1,10 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ciao! नमस्कार 🙏🏻, I'm Avinash Yadav !! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+<img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&duration=1500&pause=500&&random=false&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Frontend+;%F0%9F%8E%9B%EF%B8%8F+Backend;%f0%9f%93%9f+AI+ML;%F0%9F%93%8A+Data+Science;%F0%9F%8F%86+Competitive+Programming;" alt="Typing SVG">
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=avinashyadav16&label=Profile%20views&color=0e75b6&style=flat" alt="avinashyadav16" /> </p>
-<a href="https://avinash-yadav16.netlify.app" target="_blank">🔗 Visit My Portfolio</a>
+🔗 <a href="https://avinash-yadav16.netlify.app" target="_blank">Visit My Portfolio</a>
 <br>
 <br>
 
