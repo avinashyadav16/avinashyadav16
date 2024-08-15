@@ -9,25 +9,28 @@
 <p align="left"> 
     <a href="https://app.daily.dev/avinashyadav16">
         <img src="https://api.daily.dev/devcards/v2/EbLkqiMPxRPaeub7jTG5g.png?type=wide&r=ida" 
-                width="450" 
+                width="400" 
                 alt="Avinash Yadav's Dev Card"
         />
     </a>
 </p>
 
-<p>
-    <a href="https://avinash-yadav16.netlify.app" 
-    style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); color: white; font-family: Arial, sans-serif; font-weight: bold; border-radius: 12px; text-decoration: none;">
-        <img src="https://simpleicons.org/icons/biolink.svg" alt="Bio Link Logo" width="20" height="20" style="margin-right: 8px; vertical-align: middle;">
-        PORTFOLIO - LINK - Click Here
-    </a>
-    <span style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); color: white; font-family: Arial, sans-serif; font-weight: bold; border-radius: 12px; text-decoration: none; margin-left: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=avinashyadav16&style=for-the-badge&logo=Github&logoColor=white&logoSize=auto" alt="avinashyadav16" style="vertical-align: middle;">
-    </span>
+<p align="left">
+    <img 
+        src="https://img.shields.io/badge/PORTFOLIO_LINK_Click_Here-brightgreen?style=for-the-badge&logo=Bio%20Link&logoColor=white" 
+        alt="PORTFOLIO-WEBSITE-LINK"
+    >
+    <img 
+        src="https://komarev.com/ghpvc/?username=avinashyadav16&style=for-the-badge&logo=Github&logoColor=white&logoSize=auto" 
+        alt="avinashyadav16"
+    >
 </p>
-<p style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); color: black; font-family: Arial, sans-serif; font-weight: bold; border-radius: 12px; text-decoration: none;">
-🏃‍♂️‍➡️ Currently Learning About NLP and Shell Scripting Language...🏃‍♂️‍➡️ 🏃‍♂️‍➡️ 🏃‍♂️‍➡️ 
-</p><br>
+<p align="left">
+    <img 
+        src="https://img.shields.io/badge/Currently_Learning_About:-_NLP_and_Shell_Scripting_Language...🏃‍♂️‍➡️_🏃‍♂️‍➡️_🏃‍♂️‍➡️-gray?style=for-the-badge&logoColor=white" 
+        alt="Current Goal"
+    >
+</p>
 
 # Connect with me:
 
@@ -42,7 +45,7 @@
             height="40" 
             width="40" 
             style="margin-right: 10px;"/>
-    </a>
+    </a>&nbsp; &nbsp; 
     <a 
         href="https://medium.com/@avinashyadav16" 
         target="_blank">
@@ -53,7 +56,7 @@
             height="40" 
             width="40" 
             style="margin-right: 10px;"/>
-    </a>
+    </a>&nbsp; &nbsp; 
     <a 
         href="https://app.daily.dev/avinashyadav16" 
         target="_blank">
@@ -64,7 +67,7 @@
             height="40" 
             width="40" 
             style="margin-right: 10px;" />
-    </a>
+    </a>&nbsp; &nbsp; 
     <a 
         href="https://discordapp.com/users/1069681746100097074" 
         target="_blank">
@@ -117,8 +120,8 @@
 <br><br><br><br><br><br><br><br>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=avinashyadav16&show_icons=true&locale=en" alt="avinashyadav16" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16" alt="avinashyadav16" />
+    <img src="https://github-readme-stats.vercel.app/api?username=avinashyadav16&show_icons=true&locale=en&card_width=50px" alt="avinashyadav16" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16&layout=compact&card_width=400px" alt="avinashyadav16" />
 </p>
 
 <p align="left"> 
