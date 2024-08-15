@@ -7,19 +7,21 @@
 </h1>
 
 <p align="left"> 
-    <a href="https://app.daily.dev/avinashyadav16">
+    <a href="https://app.daily.dev/avinashyadav16"
+        target="_blank">
         <img src="https://api.daily.dev/devcards/v2/EbLkqiMPxRPaeub7jTG5g.png?type=wide&r=ida" 
-                width="400" 
-                alt="Avinash Yadav's Dev Card"
-        />
+                width="350" 
+                alt="Avinash Yadav's Dev Card"/>
     </a>
 </p>
 
 <p align="left">
-    <img 
-        src="https://img.shields.io/badge/PORTFOLIO_LINK_Click_Here-brightgreen?style=for-the-badge&logo=Bio%20Link&logoColor=white" 
-        alt="PORTFOLIO-WEBSITE-LINK"
-    >
+    <a href="https://avinash-yadav16.netlify.app"
+        target="_blank">
+        <img 
+            src="https://img.shields.io/badge/PORTFOLIO_LINK_Click_Here-brightgreen?style=for-the-badge&logo=Bio%20Link&logoColor=white" 
+            alt="PORTFOLIO-WEBSITE-LINK"/>
+    </a>
     <img 
         src="https://komarev.com/ghpvc/?username=avinashyadav16&style=for-the-badge&logo=Github&logoColor=white&logoSize=auto" 
         alt="avinashyadav16"
@@ -43,9 +45,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
             alt="LinkedIn Link Icon" 
             height="40" 
-            width="40" 
-            style="margin-right: 10px;"/>
-    </a>&nbsp; &nbsp; 
+            width="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a 
         href="https://medium.com/@avinashyadav16" 
         target="_blank">
@@ -54,9 +55,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="Medium Link Icon" 
             height="40" 
-            width="40" 
-            style="margin-right: 10px;"/>
-    </a>&nbsp; &nbsp; 
+            width="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a 
         href="https://app.daily.dev/avinashyadav16" 
         target="_blank">
@@ -65,9 +65,8 @@
             src="https://seeklogo.com/images/D/daily-dev-icon-logo-F2FF3407F0-seeklogo.com.png" 
             alt="App Daily Dev Link Icon" 
             height="40" 
-            width="40" 
-            style="margin-right: 10px;" />
-    </a>&nbsp; &nbsp; 
+            width="40" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a 
         href="https://discordapp.com/users/1069681746100097074" 
         target="_blank">
