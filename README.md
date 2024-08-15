@@ -1,39 +1,83 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ciao! नमस्कार 🙏🏻, I'm Avinash Yadav !! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1>
+    Ciao! नमस्कार 🙏🏻, I'm Avinash Yadav !!
+    <img
+        src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&duration=2000&pause=500&&random=false&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Full-Stack+;%f0%9f%93%9f+AI+ML;%F0%9F%93%8A+Data+Science;%F0%9F%8F%86+Competitive+Programming;"
+        alt="Typing SVG"
+    >
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&duration=1500&pause=500&&random=false&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Frontend+;%F0%9F%8E%9B%EF%B8%8F+Backend;%f0%9f%93%9f+AI+ML;%F0%9F%93%8A+Data+Science;%F0%9F%8F%86+Competitive+Programming;" alt="Typing SVG">
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=avinashyadav16&label=Profile%20views&color=0e75b6&style=flat" alt="avinashyadav16" /> </p>
-🔗 <a href="https://avinash-yadav16.netlify.app" target="_blank">Visit My Portfolio</a>
-<br>
-<br>
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...
-
-```javascript
-const avinashyadav16 = {
-    name: "Avinash Yadav",
-    native: "Ayodhya, Uttar Pradesh",
-    askMeAbout: ["Tech", "Codes", "Travel"],
-    hobbies: ["Coding", "Suduko-Solving", "Travelling", "Reading"],
-    currentFocus: "Fighting The Battles Of Languages...",
-    techGoal: "Mastering full-stack development and diving deeper into ML.",
-    funFact: "There are 10 types of people in the world…
-                those who understand binary and those who don’t."
-};
-```
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/avinash-yadav-16hgnisgar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-yadav-16hgnisgar" height="40" width="40" style="margin-right: 10px;" /></a>
-    <a href="https://discordapp.com/users/1069681746100097074" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AvinashYadav" height="60" width="50" /></a>
+<p align="left"> 
+    <a href="https://app.daily.dev/avinashyadav16">
+        <img src="https://api.daily.dev/devcards/v2/EbLkqiMPxRPaeub7jTG5g.png?type=wide&r=ida" 
+                width="450" 
+                alt="Avinash Yadav's Dev Card"
+        />
+    </a>
 </p>
 
-<br>
+<p>
+    <a href="https://avinash-yadav16.netlify.app" 
+    style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); color: white; font-family: Arial, sans-serif; font-weight: bold; border-radius: 12px; text-decoration: none;">
+        <img src="https://simpleicons.org/icons/biolink.svg" alt="Bio Link Logo" width="20" height="20" style="margin-right: 8px; vertical-align: middle;">
+        PORTFOLIO - LINK - Click Here
+    </a>
+    <span style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); color: white; font-family: Arial, sans-serif; font-weight: bold; border-radius: 12px; text-decoration: none; margin-left: 10px;">
+        <img src="https://komarev.com/ghpvc/?username=avinashyadav16&style=for-the-badge&logo=Github&logoColor=white&logoSize=auto" alt="avinashyadav16" style="vertical-align: middle;">
+    </span>
+</p>
+<p style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); color: black; font-family: Arial, sans-serif; font-weight: bold; border-radius: 12px; text-decoration: none;">
+🏃‍♂️‍➡️ Currently Learning About NLP and Shell Scripting Language...🏃‍♂️‍➡️ 🏃‍♂️‍➡️ 🏃‍♂️‍➡️ 
+</p><br>
 
-<h3 align="left">Tech Stacks:</h3>
+# Connect with me:
+
+<p align="left">
+    <a 
+        href="https://linkedin.com/in/avinash-yadav-16hgnisgar" 
+        target="_blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+            alt="LinkedIn Link Icon" 
+            height="40" 
+            width="40" 
+            style="margin-right: 10px;"/>
+    </a>
+    <a 
+        href="https://medium.com/@avinashyadav16" 
+        target="_blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="Medium Link Icon" 
+            height="40" 
+            width="40" 
+            style="margin-right: 10px;"/>
+    </a>
+    <a 
+        href="https://app.daily.dev/avinashyadav16" 
+        target="_blank">
+        <img 
+            align="center" 
+            src="https://seeklogo.com/images/D/daily-dev-icon-logo-F2FF3407F0-seeklogo.com.png" 
+            alt="App Daily Dev Link Icon" 
+            height="40" 
+            width="40" 
+            style="margin-right: 10px;" />
+    </a>
+    <a 
+        href="https://discordapp.com/users/1069681746100097074" 
+        target="_blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
+            alt="Discord Link Icon" 
+            height="60" 
+            width="50" />
+    </a>
+</p><br>
+
+# Tech Stacks:
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![CPP](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -59,26 +103,30 @@ const avinashyadav16 = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23c3cf59?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23130654?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23f78c00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 <br>
 
-<h3 align="left">Git States:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashyadav16&show_icons=true&locale=en&layout=compact" alt="avinashyadav16" /></p>
+# Git States:
 
-<br><br><br>
-<br><br><br>
-<br><br>
+<p>
+    <img align="left" 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashyadav16&show_icons=true&locale=en&layout=compact" 
+            alt="avinashyadav16" 
+    />
+</p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashyadav16&show_icons=true&locale=en" alt="avinashyadav16" /></p> -->
+<br><br><br><br><br><br><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16" alt="avinashyadav16" /></p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=avinashyadav16&show_icons=true&locale=en" alt="avinashyadav16" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashyadav16" alt="avinashyadav16" />
+</p>
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16&column=9&margin-w=10&margin-h=10" alt="avinashyadav16"/>
+    </a> 
+</p>
 <br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16&column=5&margin-w=10&margin-h=10" alt="avinashyadav16"/></a> </p>
-<br>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadav16&theme=algolia" alt="avinashyadav16" /></a> </p>
-<br> -->
 
 <h1 style="color: green"><img align="right", src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" width="200"><a href="https://www.holopin.io/@avinashyadav16#badges">📌<b><u>Hacktoberfest 2023 Badge Board </u></b>👇</a></h1>
 
@@ -98,3 +146,27 @@ const avinashyadav16 = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ---
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashyadav16&label=GitHubViews%20views&color=0e75b6&style=flat" alt="avinashyadav16" /> </p> -->
+
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+<!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me... -->
+
+<!-- ```javascript
+const avinashyadav16 = {
+    name: "Avinash Yadav",
+    native: "Ayodhya, Uttar Pradesh",
+    askMeAbout: ["Tech", "Codes", "Travel"],
+    hobbies: ["Coding", "Suduko-Solving", "Travelling", "Reading"],
+    currentFocus: "Fighting The Battles Of Languages...",
+    techGoal: "Mastering full-stack development and diving deeper into ML.",
+    funFact: "There are 10 types of people in the world…
+                those who understand binary and those who don’t."
+};
+``` -->
+
+<!-- <a href="https://avinash-yadav16.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO--LINK--Click--Here-brightgreen?style=for-the-badge&logo=Bio%20Link&logoColor=white" alt="PORTFOLIO-WEBSITE-LINK">
+</a> -->
