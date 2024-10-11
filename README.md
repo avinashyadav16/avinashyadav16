@@ -6,14 +6,14 @@
     >
 </h1>
 
-<p align="left"> 
+<!-- <p align="left">
     <a href="https://app.daily.dev/avinashyadav16"
         target="_blank">
-        <img src="https://api.daily.dev/devcards/v2/EbLkqiMPxRPaeub7jTG5g.png?type=wide&r=ida" 
-                width="350" 
+        <img src="https://api.daily.dev/devcards/v2/EbLkqiMPxRPaeub7jTG5g.png?type=wide&r=ida"
+                width="350"
                 alt="Avinash Yadav's Dev Card"/>
     </a>
-</p>
+</p> -->
 
 <p align="left">
     <a href="https://avinash-yadav16.netlify.app"
@@ -29,7 +29,7 @@
 </p>
 <p align="left">
     <img 
-        src="https://img.shields.io/badge/Currently_Learning_About:-_NLP_and_Shell_Scripting_Language...🏃‍♂️‍➡️_🏃‍♂️‍➡️_🏃‍♂️‍➡️-gray?style=for-the-badge&logoColor=white" 
+        src="https://img.shields.io/badge/Currently_Learning_About:-_NLP_and_Shell_Scripting...🏃‍♂️‍➡️_🏃‍♂️‍➡️_🏃‍♂️‍➡️-gray?style=for-the-badge&logoColor=white" 
         alt="Current Goal"
     >
 </p>
@@ -109,14 +109,14 @@
 
 # Git States:
 
-<p>
-    <img align="left" 
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashyadav16&show_icons=true&locale=en&layout=compact" 
-            alt="avinashyadav16" 
+<!-- <p>
+    <img align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashyadav16&show_icons=true&locale=en&layout=compact"
+            alt="avinashyadav16"
     />
-</p>
+</p> -->
 
-<br><br><br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br><br><br> -->
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=avinashyadav16&show_icons=true&locale=en&card_width=50px" alt="avinashyadav16" />
