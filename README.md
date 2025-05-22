@@ -29,7 +29,7 @@
 </p>
 <p align="left">
     <img 
-        src="https://img.shields.io/badge/Currently_Learning_About:-_NLP_and_Shell_Scripting...🏃‍♂️‍➡️_🏃‍♂️‍➡️_🏃‍♂️‍➡️-gray?style=for-the-badge&logoColor=white" 
+        src="https://img.shields.io/badge/Currently_Learning_About:-_GEN--AI...🏃‍♂️‍➡️_🏃‍♂️‍➡️_🏃‍♂️‍➡️-gray?style=for-the-badge&logoColor=white" 
         alt="Current Goal"
     >
 </p>
@@ -58,6 +58,16 @@
             width="40"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a 
+        href="https://x.com/avinash_yadav16" 
+        target="_blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="Twitter Link Icon" 
+            height="40" 
+            width="40"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <!-- <a 
         href="https://app.daily.dev/avinashyadav16" 
         target="_blank">
         <img 
@@ -66,7 +76,7 @@
             alt="App Daily Dev Link Icon" 
             height="40" 
             width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
     <a 
         href="https://discordapp.com/users/1069681746100097074" 
         target="_blank">
@@ -148,27 +158,3 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ---
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashyadav16&label=GitHubViews%20views&color=0e75b6&style=flat" alt="avinashyadav16" /> </p> -->
-
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
-<!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
-<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me... -->
-
-<!-- ```javascript
-const avinashyadav16 = {
-    name: "Avinash Yadav",
-    native: "Ayodhya, Uttar Pradesh",
-    askMeAbout: ["Tech", "Codes", "Travel"],
-    hobbies: ["Coding", "Suduko-Solving", "Travelling", "Reading"],
-    currentFocus: "Fighting The Battles Of Languages...",
-    techGoal: "Mastering full-stack development and diving deeper into ML.",
-    funFact: "There are 10 types of people in the world…
-                those who understand binary and those who don’t."
-};
-``` -->
-
-<!-- <a href="https://avinash-yadav16.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO--LINK--Click--Here-brightgreen?style=for-the-badge&logo=Bio%20Link&logoColor=white" alt="PORTFOLIO-WEBSITE-LINK">
-</a> -->
