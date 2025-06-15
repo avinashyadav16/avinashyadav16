@@ -89,7 +89,40 @@
     </a>
 </p><br>
 
-# Tech Stacks:
+### Read My Latest Blog Here:
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/0">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/0" alt="Recent Article 0" width="600px">
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/1">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/1" alt="Recent Article 1" width="600px">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/2">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/2" alt="Recent Article 2" width="600px">
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/3">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/3" alt="Recent Article 3" width="600px">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br>
+
+# Development Stacks & Tools:
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![CPP](https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -140,11 +173,11 @@
 </p>
 <br>
 
-<h1 style="color: green"><img align="right", src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" width="200"><a href="https://www.holopin.io/@avinashyadav16#badges">📌<b><u>Hacktoberfest 2023 Badge Board </u></b>👇</a></h1>
+<h1 style="color: green"><a href="https://www.holopin.io/@avinashyadav16#badges">📌<b><u>Hacktoberfest 2023 Badges </u></b>👇</a></h1>
 
 [![An image of @avinashyadav16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashyadav16)](https://holopin.io/@avinashyadav16)
 
-  <h1 style="color: green"><img align="right" src="https://www.defy24.xyz/_next/static/media/defy-logo.3f892679.svg" height="50" width="200"><a href="https://www.defy24.xyz/">📌<b><u>Defy 2024 Badge Board </u></b>👇</a></h1>
+<h1 style="color: green"><a href="https://www.defy24.xyz/">📌<b><u>Defy 2024 Badge</u></b>👇</a></h1>
 
 <p align="center">
     <img alt="Dark" src="https://api.vaunt.dev/v1/github/entities/avinashyadav16/achievements?format=svg&limit=3&raw=true" width="45%">
@@ -158,3 +191,19 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ---
+
+<!-- <p align="center">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/0">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/0" alt="Recent Article 0" width=600px>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/1">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/1" alt="Recent Article 1" width=600px>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/2">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/2" alt="Recent Article 2" width=600px>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/3">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@avinashyadav16/3" alt="Recent Article 3" width=600px>
+
+</p> -->
