@@ -16,7 +16,7 @@
 </p> -->
 
 <p align="left">
-    <a href="https://avinash-yadav16.netlify.app"
+    <a href="https://avinashyadav16.netlify.app"
         target="_blank">
         <img 
             src="https://img.shields.io/badge/PORTFOLIO_LINK_Click_Here-brightgreen?style=for-the-badge&logo=Bio%20Link&logoColor=white" 
